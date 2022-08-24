@@ -23,7 +23,6 @@ Uday,Kirani,Dandu,NIL,NIL,NIL,NIL,NIL,NIL,NIL
 Micah,NIL,Joel,NIL,NIL,NIL,NIL,NIL,NIL,NIL
 Scott,NIL,Raymond,NIL,Salesforce,"Ohio, United States",NIL,NIL,NIL,Administrator
 Mohammad,NIL,Hasrat,Lead Salesforce Consultant,Dazeworks Technologies,"Uttar Pradesh, India",NIL,NIL,101-500 employees,Architect
-N,I,L,NIL,NIL,NIL,NIL,NIL,NIL,NIL
 Alex,NIL,Cook,"Director, A&C Technology",Salesforce,"California, United States",https://www.linkedin.com/in/alexcookmarketing,NIL,3501+ employees,Administrator
 Jodi,NIL,Kirkpatrick,Solution Architect,Cloudpointe,"Michigan, United States",https://www.linkedin.com/in/jodikirkpatrick,https://www.cloudpointe.com/,NIL,Architect
 Jay,NIL,Freeman,RVP @ Slack,Salesforce,"California, United States",NIL,NIL,NIL,Sales Representative / Manager
@@ -57,7 +56,6 @@ April,NIL,Welch,NIL,NIL,NIL,NIL,NIL,NIL,NIL
 Autumn,NIL,Young,NIL,IBM,"Indiana, United States",NIL,NIL,NIL,Business Operations Manager
 Stephan,NIL,Cocron,NIL,NIL,NIL,NIL,NIL,NIL,NIL
 Douglas,NIL,Kim,NIL,Salesforce,"California, United States",NIL,NIL,NIL,Developer
-N,I,L,NIL,NIL,NIL,NIL,NIL,NIL,NIL
 Sophia,NIL,Englert,NIL,Salesforce,"California, United States",NIL,NIL,NIL,Sales Representative / Manager
 Lucile,NIL,Foucart,Senior Account Executive,Salesforce,France,NIL,NIL,NIL,Sales Representative / Manager
 Gabriel,Such,Tobias,NIL,Salesforce,"California, United States",NIL,NIL,NIL,Developer
@@ -79,7 +77,6 @@ Josh,NIL,Swank,VP of Sales & Marketing,NIL,NIL,NIL,NIL,NIL,NIL
 German,NIL,Hernandez,Software Engineer II /Salesforce Admin,Principal,"Iowa, United States",NIL,NIL,NIL,Administrator
 Curtis,NIL,Shelton,Sales and Marketing Application Manager,"CBIZ, Inc.","Ohio, United States",NIL,NIL,NIL,Administrator
 Chau-Ly,NIL,Phan,Business Systems Analyst,University of Notre Dame,"Indiana, United States",NIL,NIL,NIL,Administrator
-,,,NIL,NIL,NIL,NIL,NIL,NIL,NIL
 Chris,NIL,Karrasch,IT Manager,Houlihan Lokey,"California, United States",NIL,NIL,501-3500 employees,Administrator
 Nicole,NIL,Gallant,"VP, Alliances",Salesforce,"New York, United States",NIL,NIL,NIL,Executive
 Sanae,NIL,Ishii,NIL,NIL,NIL,NIL,NIL,NIL,NIL
@@ -87,7 +84,6 @@ Gary,NIL,Benedetti,Director IT,Sodexo,"New York, United States",NIL,NIL,NIL,Admi
 Lynn,NIL,Davis,Senior Salesforce Developer,"DealerSocket, Inc.","California, United States",NIL,NIL,NIL,Developer
 Sadhiq,NIL,Mohammad,Application Engineer,Google LLC,"North Carolina, United States",https://www.linkedin.com/in/sadhiq-mohammad-13a06312b/,https://www.google.com/,3501+ employees,Developer
 Sooriya,NIL,Kan,Developer,Newtopia,"Ontario, Canada",NIL,NIL,NIL,Developer
-N,I,L,NIL,NIL,NIL,NIL,NIL,NIL,NIL
 Lei,NIL,Dai,NIL,Salesforce.com,"British Columbia, Canada",NIL,NIL,NIL,Developer
 Larry,NIL,Bushey,"Director, Sr. Program Manager",Salesforce,"California, United States","https://www.linkedin.com/in/larrybushey , https://www.twitter.com/CRMLarryBushey",NIL,NIL,Administrator
 Meagan,NIL,Carpenter,Sr. Director Customer Success,Salesforce,"Pennsylvania, United States",https://www.linkedin.com/in/meagancarpenter,NIL,NIL,Consultant
@@ -99,3 +95,20 @@ Takuya,NIL,Kubo,NIL,Salesforce.com,Japan,NIL,NIL,NIL,Developer
 Toni,NIL,Miller,NIL,Cloud Blend LLC,"Georgia, United States",NIL,NIL,NIL,Developer
 Eric,NIL,Zimmerman,"Sr. Manager, Global Salesforce, CRM",AGCO Corporation,"Georgia, United States",NIL,NIL,NIL,Administrator
 Susannah,NIL,Brouwer,NIL,NIL,NIL,NIL,NIL,NIL,NIL
+Eight,NIL,Cloud,NIL,NIL,NIL,NIL,NIL,NIL,NIL
+Greg,NIL,Pinto,NIL,NIL,NIL,NIL,NIL,NIL,NIL
+Ro,NIL,Z,UI/UX designger,Salesforce,"New South Wales, Australia",NIL,NIL,NIL,Designer
+Mary,NIL,Kellum,Solution Architect,"Strategic Growth, Inc","Texas, United States",https://www.linkedin.com/in/mkellum,NIL,1-20 employees,Architect
+Laura,NIL,Tamke,NIL,NIL,NIL,NIL,NIL,NIL,NIL
+Fabian,NIL,Tiemann,NIL,NIL,NIL,NIL,NIL,NIL,NIL
+Paul,NIL,Raytsen,NIL,Invesco (formerly OppenheimerFunds),"New York, United States",https://www.linkedin.com/in/paulraytsen,NIL,3501+ employees,Administrator
+Mohamad,NIL,Arabo,NIL,salesforce,"Washington, United States",NIL,NIL,NIL,Developer
+Mark,NIL,Weathers,NIL,NIL,NIL,NIL,NIL,NIL,NIL
+Karalee,NIL,Slayton,"Sr. Director, CSG Product Enablement & COE",salesforce,"Indiana, United States",NIL,NIL,NIL,Executive
+Roman,NIL,Shovkun,VP of Sales & Marketing,Invisible Solutions,"California, United States",NIL,NIL,NIL,Sales Representative / Manager
+Emilee,NIL,Schulzke,NIL,Priority Dispatch Corp,"Utah, United States",NIL,NIL,101-500 employees,Service Agent / Supervisor
+Phil,Van,Dalen,IT Release Manager,Salesforce,"California, United States",NIL,NIL,NIL,Developer
+Jennifer,NIL,Pierson,NIL,Textron Aviation,"Kentucky, United States",NIL,NIL,NIL,Developer
+Stephanie,NIL,Carlson,Contracts Manager,InEight Inc.,"Arizona, United States",NIL,NIL,NIL,Administrator
+Westley,NIL,Anselmo,NIL,JPD Financial,"California, United States",NIL,NIL,NIL,Developer
+Mike,NIL,Torres,"Portfolio Lead, SMB AMER",Salesforce,"California, United States",NIL,NIL,NIL,Service Agent / Supervisor
